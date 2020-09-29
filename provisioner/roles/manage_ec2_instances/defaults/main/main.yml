@@ -119,13 +119,13 @@ ec2_info:
     filter: 'OnCommand_Cloud_Manager_3.7.0_Marketplace*'
     username: ec2-user
   qradar:
-    owners: 324218975267
+    owners: 900714892670
     size: t2.2xlarge
     os_type: linux
     disk_space: 300
     architecture: x86_64
     filter: 'AnsibleSecurity-QRadarCE*'
-    username: ec2-user
+    username: centos
     python_interpreter: '/usr/bin/python'
   skylight_windows_ws:
     filter: 'Windows_Server-2016-English-Full-Base*'
