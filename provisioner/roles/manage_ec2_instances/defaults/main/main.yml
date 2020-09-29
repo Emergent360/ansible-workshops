@@ -124,7 +124,7 @@ ec2_info:
     os_type: linux
     disk_space: 300
     architecture: x86_64
-    filter: 'AnsibleSecurity-QRadarCE*'
+    filter: 'AnsibleSecurity-QRadarCE'
     username: centos
     python_interpreter: '/usr/bin/python'
   skylight_windows_ws:
