@@ -24,7 +24,7 @@
 を作成することは可能ですが、最終的には複数のファイルを再利用して、整理することをお勧めします。
 
 これを行うには、Ansible Roles を使用します。ロールを作成するときは、Playbook
-を複数のパーツに分け、それらのパーツをディレクトリー構造に配置します。これについては、[ベストプラクティス](http://docs.ansible.com/ansible/playbooks_best_practices.html)
+を複数のパーツに分け、それらのパーツをディレクトリー構造に配置します。これについては、[ベストプラクティス](https://docs.ansible.com/ansible/2.9_ja/user_guide/playbooks_best_practices.html)
 で詳しく説明されています。
 
 この演習では、以下について説明します。
@@ -361,7 +361,7 @@ tcp6       0      0 :::8080                 :::*                    LISTEN      
 ---
 **ナビゲーション**
 <br>
-[前の演習](../1.6-templates) - [次の演習](../1.7-role)
+[前の演習](../1.6-templates) - [次の演習](../2.1-intro)
 
 [こちらをクリックして Ansible for Red Hat Enterprise Linux Workshop
 に戻ります](../README.md#section-1---ansible-engine-exercises)
